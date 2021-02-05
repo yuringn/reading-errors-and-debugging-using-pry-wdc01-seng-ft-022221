@@ -1,4 +1,7 @@
+
 def plus_two(num)
-	num + 2
-	num
+	sum = num + 2
+	p sum
+
 end
+plus_two(3)
